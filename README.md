@@ -42,6 +42,8 @@ There are two designs released here:
  
  ## Issues
  
+ USE AT YOUR OWN RISK
+ 
  It's important to note that the design has strength issues. The intent was to create an FDM printable adapater (which worked) however if your barrel is unprotected anywhere along its length and you give it a good whack, you will likely **snap the adapter** at the base, around where the O-ring sits. Use a pick to unthread and remove the broken section from your milsig once you have snapped it.
  
  I suggest printing on an angle to give it a bit more lateral strength, eg
